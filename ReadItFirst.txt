@@ -1,0 +1,11 @@
+     I have converted my programming fundamental's C++ with C# project with some Object Oriented Programming concept .
+this is'nt perfect Management System but it help in strengthen my oop concepts 
+
+     To run it first execute the MySQL script and write your connection string.
+
+Reverse Searching concept
+    In association(relationship) of classes check get one data by other.
+this code implement reverse searching concept in 
+>> can get handle customer list by employee Id (many to one)
+>>  can get placed order list by customer id (many to one)
+
